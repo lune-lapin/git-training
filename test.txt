@@ -1,2 +1,2 @@
 
-This is my very first Git experience! so excited!
+This is my very first Git experience. so excited!
